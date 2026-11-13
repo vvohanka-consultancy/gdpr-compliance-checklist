@@ -26,6 +26,6 @@ For small and medium-sized enterprises (SMEs) processing sensitive personal, cus
 
 **About Javo Consultancy Ltd**
 
-Javo Consultancy Ltd is a family-run, remote-first ISO consultancy delivering lean, certification-ready management systems for SMEs. Our leadership team consists of active, UK-based Lead Auditors holding Lead Auditor qualifications for ISO/IEC 27701 (Privacy Information Management System), ensuring expert oversight in privacy risk assessments and GDPR compliance governance. We maintain strict transparency and hold an active ICO Data Protection Registration (ZA235697).
+Javo Consultancy Ltd is a family-run, remote-first ISO consultancy delivering lean, certification-ready management systems for SMEs. Our leadership team consists of active, UK-based Lead Auditors holding a Lead Auditor qualification for ISO/IEC 27701 (Privacy Information Management System), ensuring expert oversight in privacy risk assessments and GDPR compliance governance. We maintain strict transparency and hold an active ICO Data Protection Registration (ZA235697).
 
 🌐 **Website:** [https://www.javoconsultancyltd.com/](https://www.javoconsultancyltd.com/)
